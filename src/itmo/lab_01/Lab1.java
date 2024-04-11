@@ -26,7 +26,7 @@ public class Lab1
         /** Лаба1. Упражнение 3. */
 
         int number = 10500;
-        int rezult = (number/10)/10;
+        double rezult = ((double)number/(double)10)/(double)10;
         System.out.println(rezult);
 
 
